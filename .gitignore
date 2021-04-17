@@ -1,2 +1,5 @@
 #ignore all class files
-*.class 
+*.class
+.gitignore
+.tmp
+.temp 
